@@ -8,6 +8,9 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#release-instructions-for-a-new-version) fo
 
 ## 1.13.0 (unreleased)
  - feat: `utils.enum` now accepts hash tables, to enable better error handling
+   [#413](https://github.com/lunarmodules/Penlight/pull/413)
+ - feat: `utils.kpairs` new iterator over all non-integer keys
+   [#413](https://github.com/lunarmodules/Penlight/pull/413)
 
 
 ## 1.12.0 (2022-Jan-10)
